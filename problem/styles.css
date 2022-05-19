@@ -1,0 +1,16 @@
+.card-body{
+    justify-content: center;
+    align-items: center;
+
+}
+
+body{
+    justify-content: center;
+    display:flex;
+    align-items: center;
+
+}
+
+.rectangulo {
+    display:flex;
+}
